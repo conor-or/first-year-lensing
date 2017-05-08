@@ -6,6 +6,11 @@ ___
 
 ##### A consequence of general relativity is that mass causes light to bend. Different mass deflects light in different ways and essentially, that's gravitational lensing.
 
+<p align="center">
+<img src="https://github.com/conor-or/lens-mcmc/blob/master/images/image1.png" width="400"><img src="https://github.com/conor-or/lens-mcmc/blob/master/images/image2.png" width="400">
+<img src="https://github.com/conor-or/lens-mcmc/blob/master/images/image3.png" width="400"><img src="https://github.com/conor-or/lens-mcmc/blob/master/images/image4.png" width="400">
+</p>
+
 ___
 
 ### Method in a Nutshell
