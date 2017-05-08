@@ -1,2 +1,4 @@
-# first-year-lensing
-Materials for the First Year Gravitational Lensing project at Imperial College
+# First Year Lensing Project
+___
+
+This is where I'll upload materials for the First Year Gravitational Lensing project.
