@@ -43,5 +43,5 @@ Some papers covering different aspects of lensing:
 * [Tessore and Metcalf, 2015](https://arxiv.org/abs/1507.01819) provides an ultra-fast method for analytically calculating any elliptical gravitational lens. More general than Kormann but a bit trickier.
 
 ##### Real Lenses
-* [The SLACS Project (Auger, Bolton et. al.)](http://www.physics.utah.edu/~bolton/slacs/Home.html) is the start of the art on lensing surveys, plenty of really nice images here.
+* [The SLACS Project (Auger, Bolton et. al.)](http://www.physics.utah.edu/~bolton/slacs/Home.html) is the state of the art on lensing surveys, plenty of really nice images here.
 * [Shu et. al., 2016](https://arxiv.org/abs/1608.08707) really has the best looking images of gravitational lenses out there (see pages 8-11), all taken with the Hubble Wide Field Camera. We can compare our results to some of the these images.
