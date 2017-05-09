@@ -2,6 +2,15 @@
 
 Welcome to the project! This is where I'll keep all the materials and I'll update it as we move along.
 Please use the Slack for any queries!
+
+Timetable of project (from dept. website)
+
+* Week of Tuesday 9 May: First meeting with project supervisor (email discussions before this are encouraged)
+* Weeks 2-7: Project work
+* Week 8: Display preparation
+* Thursday 22 June: 1pm-4.30pm Open Day (GCSE + departmental visitors)
+* Friday 23 June: 1pm-4.30pm Open Day (A-Level + departmental visitors)
+* Monday 26 June: Reports due at 4pm
 ___
 
 ##### A consequence of general relativity is that mass causes light to bend. Different mass deflects light in different ways and essentially, that's gravitational lensing.
