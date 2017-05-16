@@ -2,6 +2,15 @@
 
 Welcome to the project! This is where I'll keep all the materials and I'll update it as we move along.
 Please use the Slack for any queries!
+
+Timetable of project (from dept. website)
+
+* Week of Tuesday 9 May: First meeting with project supervisor (email discussions before this are encouraged)
+* Weeks 2-7: Project work
+* Week 8: Display preparation
+* Thursday 22 June: 1pm-4.30pm Open Day (GCSE + departmental visitors)
+* Friday 23 June: 1pm-4.30pm Open Day (A-Level + departmental visitors)
+* Monday 26 June: Reports due at 4pm
 ___
 
 ##### A consequence of general relativity is that mass causes light to bend. Different mass deflects light in different ways and essentially, that's gravitational lensing.
@@ -39,7 +48,7 @@ Some papers covering different aspects of lensing:
 * [Narayan and Bartelmann, 1998](https://arxiv.org/abs/astro-ph/9606001) is another good introduction, chapter two covers all the point mass stuff quite well.
 
 ##### Simulating Lensing (Computations)
-* [Kormann, 1994]() gives an analytic solution to a specific type of lens called the Single Isothermal Ellipsoid. This is a very good model for most early-type galaxies. This is likely all we'll use.
+* [Kormann, 1994](http://adsabs.harvard.edu/abs/1994A%26A...284..285K) gives an analytic solution to a specific type of lens called the Single Isothermal Ellipsoid. This is a very good model for most early-type galaxies. This is likely all we'll use.
 * [Tessore and Metcalf, 2015](https://arxiv.org/abs/1507.01819) provides an ultra-fast method for analytically calculating any elliptical gravitational lens. More general than Kormann but a bit trickier.
 
 ##### Real Lenses
